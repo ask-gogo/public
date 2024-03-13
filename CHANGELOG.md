@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.4.0](https://github.com/ask-gogo/public/compare/v1.3.0...v1.4.0) (2024-03-13)
+
+
+### Features
+
+* **askgogo:** Added the AskGogo T&Cs ([231ffcc](https://github.com/ask-gogo/public/commit/231ffcca6747666f731be42b03ec6771bcaeba19))
+
 ## [1.3.0](https://github.com/entrostat/ag-public/compare/v1.2.0...v1.3.0) (2024-03-12)
 
 
