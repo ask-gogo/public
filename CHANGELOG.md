@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+### [1.4.1](https://github.com/ask-gogo/public/compare/v1.4.0...v1.4.1) (2024-03-13)
+
+
+### Bug Fixes
+
+* **askgogo:** Updated the links in the T&Cs ([a7a3133](https://github.com/ask-gogo/public/commit/a7a313383df8c9c8abfd307e16501e6a95403a24))
+
 ## [1.4.0](https://github.com/ask-gogo/public/compare/v1.3.0...v1.4.0) (2024-03-13)
 
 
