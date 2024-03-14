@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.5.0](https://github.com/ask-gogo/public/compare/v1.4.1...v1.5.0) (2024-03-14)
+
+
+### Features
+
+* **akani:** Added the landing page to get a quote ([04a40b7](https://github.com/ask-gogo/public/commit/04a40b795ae87134b251f1445481e1aa9370ce85))
+
+
+### Bug Fixes
+
+* **akani:** Just use the catering keyword ([0ef075c](https://github.com/ask-gogo/public/commit/0ef075c3241a0ac16a54c215fe71baf7ed44faca))
+
 ### [1.4.1](https://github.com/ask-gogo/public/compare/v1.4.0...v1.4.1) (2024-03-13)
 
 
