@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.6.0](https://github.com/ask-gogo/public/compare/v1.5.1...v1.6.0) (2024-03-14)
+
+
+### Features
+
+* **shining-life:** Added the Shining Life landing page ([8b12987](https://github.com/ask-gogo/public/commit/8b12987d3a8accd2621d9d0020ead0be67ad2150))
+
 ### [1.5.1](https://github.com/ask-gogo/public/compare/v1.5.0...v1.5.1) (2024-03-14)
 
 
