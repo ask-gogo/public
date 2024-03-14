@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+    <title>Shining Life</title>
+    <style>
+        * {
+            margin: 0;
+        }
+
+        .footer-background {
+            position: absolute;
+            z-index: -1;
+            top: -500px;
+            width: 100vw;
+            height: 100vh;
+        }
+
+        img {
+            width: 100%;
+        }
+
+        ul {
+            counter-reset: section;
+            padding-left: 20px;
+        }
+
+        ul li {
+            list-style-type: none;
+            position: relative;
+            font-size: 13px;
+            margin-bottom: 0;
+            padding: 8px 0 8px 55px;
+        }
+
+        li::before {
+            counter-increment: section;
+            content: counter(section) '' '';
+            background-color: #514c29;
+            width: 25px;
+            height: 25px;
+            border-radius: 100%;
+            line-height: 25px;
+            text-align: center;
+            display: inline-block;
+            position: absolute;
+            left: 0;
+            font-size: 16px;
+            font-weight: bold;
+        }
+
+        .orange {
+            color: #fc9721
+        }
+
+
+        .button-text {
+            background-color: #fc9721;
+            color: white;
+            width: 80vw;
+            padding: 10px;
+            border-radius: 15px;
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+<header
+        style="display: flex;flex-wrap: wrap;justify-content: space-between;align-items: center;"
+>
+    <div style="flex: 1">
+        <img
+                alt=""
+                src="https://pub-130ca336f5904eada2028fcdcc100e43.r2.dev/ag_fun_logo.png"
+                style="width: 100%"
+        />
+    </div>
+    <div style="background-color: #fc9721; flex: 1; padding: 10px">
+        <h1 style="color: white; text-align: start; font-weight: 400">
+            Life <br/>
+            Affirming <br/>
+            Funerals
+        </h1>
+    </div>
+</header>
+<div style="display: flex; padding: 10px 15px 20px">
+    <div style="flex: 2">
+        <p
+                style="font-size: 14px;margin-bottom: 10px;text-align: justify;line-height: 18px;"
+        >
+            Funeral services are a tribute to the life of your loved one.
+            Personalised Life Affirming memorial decorations creates a personal
+            touch of colour and life, and has a profound impact on those in
+            attendance, while the keepsakes and mementos allows your family and
+            friends to take those tasteful memories home with them.
+        </p>
+
+        <span style="font-weight: bold">48h delivery nationwide</span>
+    </div>
+    <div
+            style="flex: 1;display: flex;justify-content: center;overflow: hidden;"
+    >
+        <img
+                alt=""
+                src="https://pub-130ca336f5904eada2028fcdcc100e43.r2.dev/ag_shining_portrait.png"
+                srcset=""
+                style="width: 180%; position: relative; top: -15px"
+        />
+    </div>
+</div>
+<div style="position: relative">
+    <div class="footer-background">
+        <img src="https://pub-130ca336f5904eada2028fcdcc100e43.r2.dev/ag_shining_background.png"
+             style="height: 1450px"/>
+    </div>
+    <div style="display: flex; align-items: center; padding: 10px">
+        <div style="flex: 2">
+            <img alt="" src="https://pub-130ca336f5904eada2028fcdcc100e43.r2.dev/ag_shining_funeral.png"/>
+        </div>
+        <div style="flex: 1">
+            <h3
+                    style="text-align: center;color: white;display: flex;flex-direction: column;line-height: 25px;"
+            >
+                <p>Coffin covers</p>
+                <p>Candles</p>
+                <p>Fridge magnets</p>
+                <p>Photo books</p>
+                <p>Digital memorials</p>
+                <p>Portraits</p>
+                <p>…and more</p>
+            </h3>
+        </div>
+    </div>
+    <p
+            style="font-size: 14px;color: white;padding: 10px;text-align: justify;"
+    >
+        Ask Gogo Life Affirming Funeral Essentials offers you the highest
+        quality personalised funeral adornments and keepsakes, at the lowest
+        possible costs
+    </p>
+    <h2 style="color: white; padding: 10px; text-align: center">
+        How It Works
+    </h2>
+    <div style="color: white; padding: 10px">
+        <ul>
+            <li><span style="color: black">Browse our products from the homepage or menu.</span></li>
+            <li><span style="color: black">
+                Select the template of your choice in a style that best honours your
+                loved one.
+            </span>
+            </li>
+            <li><span style="color: black">Choose the quantity required.</span></li>
+            <li>
+                <span style="color: black">
+                Either return to shopping & select additional products or proceed to
+                CHECK OUT.
+                </span>
+            </li>
+            <li>
+                <span style="color: black">
+                Input your personal or shipping address, and then make payment
+                (using our many payment options)
+                </span>
+            </li>
+            <li>
+                <span style="color: black">
+                Upload or send us any photos, wording, poems, verses or specific
+                text that you wish to be included on your loved one's design.
+                </span>
+            </li>
+            <li>
+                <span style="color: black">
+                We design the artwork, then proof the artwork with you. Once you
+                give the go-ahead, we print and produce the pieces.
+                </span>
+            </li>
+            <li>
+                <span style="color: black">
+                Delivery of the items will be delivered to your doorstep within 48h
+                </span>
+            </li>
+        </ul>
+    </div>
+</div>
+<footer style="text-align: center; padding-top: 40px">
+    <div style="color: rgb(102, 102, 102);font-family: Arial, Helvetica, sans-serif;display: grid; justify-content: center; justify-items: center">
+        <h3 class="orange" style="margin: 0;font-size: 16px;">It’s easy to find out more.</h3>
+        <h1 style="margin: 10px">Want a Quote? Send "funeralserv" to Gogo or click the link below!</h1>
+        <a class="button-text" href="https://moya.me/+27700008040?text=funeralserv">Click here to send "funeralserv" to
+            Gogo!</a>
+    </div>
+
+</footer>
+</body>
+</html>
