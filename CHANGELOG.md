@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+### [1.5.1](https://github.com/ask-gogo/public/compare/v1.5.0...v1.5.1) (2024-03-14)
+
+
+### Bug Fixes
+
+* **akani:** Specify that they must send 'catering' to Gogo for this to work ([ace75e1](https://github.com/ask-gogo/public/commit/ace75e1e8399e876598d1110af555ccc89f76ef5))
+
 ## [1.5.0](https://github.com/ask-gogo/public/compare/v1.4.1...v1.5.0) (2024-03-14)
 
 
