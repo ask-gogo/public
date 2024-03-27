@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+### [1.7.2](https://github.com/ask-gogo/public/compare/v1.7.1...v1.7.2) (2024-03-27)
+
+
+### Bug Fixes
+
+* **links:** Use the Moya web page instead of a deep link ([a8492a4](https://github.com/ask-gogo/public/commit/a8492a4c2c537aafd684365c3a6222d62411a3be))
+
 ### [1.7.1](https://github.com/ask-gogo/public/compare/v1.7.0...v1.7.1) (2024-03-19)
 
 
