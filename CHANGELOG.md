@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+### [1.7.4](https://github.com/ask-gogo/public/compare/v1.7.3...v1.7.4) (2024-04-16)
+
+
+### Bug Fixes
+
+* **microinsure:** Update the microinsure page with new style and branding ([9c05c10](https://github.com/ask-gogo/public/commit/9c05c10a09769cc74bfaee6a8d847fe7bec55f4e))
+
 ### [1.7.3](https://github.com/ask-gogo/public/compare/v1.7.2...v1.7.3) (2024-04-12)
 
 
