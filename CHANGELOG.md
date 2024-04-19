@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.8.0](https://github.com/ask-gogo/public/compare/v1.7.4...v1.8.0) (2024-04-19)
+
+
+### Features
+
+* **microinsure:** Add the application deeplink to the page ([e86d65c](https://github.com/ask-gogo/public/commit/e86d65c497101464ca7eba845eba473ab5a53fad))
+
 ### [1.7.4](https://github.com/ask-gogo/public/compare/v1.7.3...v1.7.4) (2024-04-16)
 
 
