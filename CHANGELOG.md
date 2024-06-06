@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+## [1.9.0](https://github.com/ask-gogo/public/compare/v1.8.0...v1.9.0) (2024-06-06)
+
+
+### Features
+
+* **landing:** Add the Hollard landing page ([c43af97](https://github.com/ask-gogo/public/commit/c43af976a09826f1e4a881502a4983cb3136b945))
+
 ## [1.8.0](https://github.com/ask-gogo/public/compare/v1.7.4...v1.8.0) (2024-04-19)
 
 
