@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [commit-and-tag-version](https://github.com/absolute-version/commit-and-tag-version) for commit guidelines.
 
+### [1.9.2](https://github.com/ask-gogo/public/compare/v1.9.1...v1.9.2) (2024-06-25)
+
+
+### Bug Fixes
+
+* **microinsure:** Set the text to Hollard Press Send ([1ea5cb4](https://github.com/ask-gogo/public/commit/1ea5cb4455111301280f4f9263b7c440f39c89c2))
+
 ### [1.9.1](https://github.com/ask-gogo/public/compare/v1.9.0...v1.9.1) (2024-06-14)
 
 
